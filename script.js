@@ -1,3 +1,5 @@
+const GOOGLE_SCRIPT_URL =
+  "https://script.google.com/macros/s/AKfycbyIhFOHPR5w7PxCJn7eUH8OnUHbRUxuYEc-IHfmLr9XsXayOq9F9HEZtl73nK_TQtyjrA/exec";
 const services=[
 ["✦","Business Websites","Professional websites for companies and local businesses."],
 ["✚","Clinic & Medical Websites","Modern websites for clinics, doctors and healthcare professionals."],
