@@ -7,7 +7,7 @@
    GOOGLE APPS SCRIPT WEB APP
    ========================================================= */
 const GOOGLE_SCRIPT_URL =
-  "https://script.google.com/macros/s/AKfycbyIhFOHPR5w7PxCJn7eUH8OnUHbRUxuYEc-IHfmLr9XsXayOq9F9HEZtl73nK_TQtyjrA/exec";
+  "https://script.google.com/macros/s/AKfycbyvoLBKiUjS96wtQ7117qjFTtC6bMfycdT3juq4ZyOYezFXaQhxpMvur1YXfut_Vg-BKQ/exec";
 
 
 /* =========================================================
